@@ -28,7 +28,7 @@ script.js
 
 🚀 How to Use
 1. Clone the repository
-
-2. Open index.html in your browser
-3. Fill out the form and click submit
-4. Check the saved data in your browser localStorage (Dev Tools > Application > Local Storage)
+   https://aman-dev2024.github.io/College-admission-form/
+3. Open index.html in your browser
+4. Fill out the form and click submit
+5. Check the saved data in your browser localStorage (Dev Tools > Application > Local Storage)
