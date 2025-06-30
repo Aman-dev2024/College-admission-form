@@ -5,7 +5,7 @@ body{
       border: 2px solid #000;
       padding: 20px;
       max-width: 1000px;
-      min-height: 650px;
+      min-height: 700px;
       margin: auto;
       box-sizing: border-box;
     }
@@ -44,6 +44,9 @@ label{
     margin-top: 30px;
     margin-left: 50px;
 }
+.gender{
+    margin: 30px 50px;
+}
 .date-of-birth-section label{
     font-size: 20px;
 }
@@ -57,7 +60,6 @@ label{
 }
 .contact-section{
     margin-top: 30px;
-    margin-left: 50px;
 }
 #phoneno{
     height: 30px;
@@ -75,7 +77,6 @@ label{
 }
 .address-section{
     margin-top: 30px;
-    margin-left: 50px;
 }
 .address-section label{
     margin-left: 0px;
@@ -112,21 +113,19 @@ label{
     border: 2px solid rgb(100, 188, 218);
 }
 h2{
-    margin-top: 20px;
-    margin-left: 50px;
+    margin-top: 30px;
 }
 .deparment-section{
-    margin-top: 20px;
-    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 50px;
 }
-.Course-section{
-    margin-top: 20px;
-    margin-left: 50px;
+.course-section{
+    margin-top: 30px;
 }
 .form-button {
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 40px;
 }
 button{
     height: 30px;
