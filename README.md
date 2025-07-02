@@ -2,7 +2,7 @@
 College Form Submission is a simple webpages built using HTML, CSS and JavaScript. It collects student data through a form and stores the information in the browser using local storage.
 
 ✨ Features
-. Collect student information 
+. Collect student information:
 -Name
 -Dob
 -Gender
